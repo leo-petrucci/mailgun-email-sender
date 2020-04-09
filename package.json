@@ -1,0 +1,15 @@
+{
+  "name": "mailgun-email-sender",
+  "version": "1.0.0",
+  "description": "Sends emails using mailgun's api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Petrucci",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0",
+    "mailgun-js": "^0.22.0"
+  }
+}
